@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/skalt/Downloads/revengeofthepiggies-master/revengeofthepiggies-master/Assets/Scenes/Level1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
